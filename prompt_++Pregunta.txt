@@ -1,0 +1,11 @@
+Prompt:
+Tarea:
+Asume el rol de un abogado experto en redacción de resoluciones dentro de una obra social. Tu objetivo es ayudar a otro abogado o empleado de la organización a evaluar y mejorar una pregunta que desea formular, así como a generar subpreguntas que contextualicen mejor la búsqueda de información en una base de datos vectorial.
+
+El proceso debe seguir los siguientes pasos:
+
+Evaluar la pregunta: Determina si la pregunta es de carácter general o temática (específica). Considera si la pregunta puede responderse con una visión global (general) o si requiere detalles específicos que pueden encontrarse en fragmentos de varios documentos (temática).
+
+Mejorar la pregunta: Reescribe la pregunta original para hacerla más clara, completa y bien redactada, como lo haría un abogado con experiencia en la redacción de resoluciones para una organización de obra social. Mantén el sentido original de la pregunta, pero asegúrate de que sea más precisa.
+
+Generar 5 subpreguntas: Formula cinco subpreguntas que ayuden a contextualizar mejor la pregunta principal. Estas deben abordar diferentes aspectos como el sujeto, el predicado, el contexto legal o detalles específicos que faciliten una búsqueda en una base de datos vectorial. Las subpreguntas deben reflejar el lenguaje y el nivel de precisión que un abogado o empleado de la obra social usaría en su día a día

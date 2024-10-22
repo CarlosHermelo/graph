@@ -1,0 +1,11 @@
+upload_file,nombre_documento, ext, doc_id, clase, tipo, tipo2, tipo3, fecha, clase2, clase3, desc
+RESOL-2024-2515-INSSJP-DE#INSSJP.pdf,RESOL-2024-2515-INSSJP-DE#INSSJP, pdf, RESOL-2024-2515-INSSJP-DE#INSSJP, fragmento, resolucion, , , 03/09/2024, , , Es una resolución de PAMI
+RESOL-2024-2522-INSSJP-DE#INSSJP.pdf,RESOL-2024-2522-INSSJP-DE#INSSJP, pdf, RESOL-2024-2522-INSSJP-DE#INSSJP, fragmento, resolucion, , , 03/09/2024, , , Es una resolución de PAMI
+RESOL-2024-2526-INSSJP-DE#INSSJP.pdf,RESOL-2024-2526-INSSJP-DE#INSSJP, pdf, RESOL-2024-2526-INSSJP-DE#INSSJP, fragmento, resolucion, , , 04/09/2024, , , Es una resolución de PAMI
+RESOL-2024-2537-INSSJP-DE#INSSJP.pdf,RESOL-2024-2537-INSSJP-DE#INSSJP, pdf, RESOL-2024-2537-INSSJP-DE#INSSJP, fragmento, resolucion, , , 05/09/2024, , , Es una resolución de PAMI
+RESOL-2024-2562-INSSJP-DE#INSSJP.pdf,RESOL-2024-2562-INSSJP-DE#INSSJP, pdf, RESOL-2024-2562-INSSJP-DE#INSSJP, fragmento, resolucion, , , 09/09/2024, , , Es una resolución de PAMI
+RESOL-2024-2563-INSSJP-DE#INSSJP.pdf,RESOL-2024-2563-INSSJP-DE#INSSJP, pdf, RESOL-2024-2563-INSSJP-DE#INSSJP, fragmento, resolucion, , , 09/09/2024, , , Es una resolución de PAMI
+RESOL-2024-2568-INSSJP-DE#INSSJP.pdf,RESOL-2024-2568-INSSJP-DE#INSSJP, pdf, RESOL-2024-2568-INSSJP-DE#INSSJP, fragmento, resolucion, , , 09/09/2024, , , Es una resolución de PAMI
+RESOL-2024-2603-INSSJP-DE#INSSJP.pdf,RESOL-2024-2603-INSSJP-DE#INSSJP, pdf, RESOL-2024-2603-INSSJP-DE#INSSJP, fragmento, resolucion, , , 09/09/2024, , , Es una resolución de PAMI
+DI-2024-1109-INSSJP-GPM#INSSJP.pdf,DI-2024-1109-INSSJP-GPM#INSSJP, pdf, DI-2024-1109-INSSJP-GPM#INSSJP, fragmento, Disposicion, , , 10/09/2024, , , Es una disposición de PAMI
+RESOL-2024-2607-INSSJP-DE#INSSJP.pdf,RESOL-2024-2607-INSSJP-DE#INSSJP, pdf, RESOL-2024-2607-INSSJP-DE#INSSJP, fragmento, resolucion, , , 10/09/2024, , , Es una resolución de PAMI
